@@ -43,7 +43,7 @@ while c < N:
 #                       Домашняя работа
 # Первое задание:
 
-N = int(input())
+N = int(input()) + 1
 c = 0
 
 while c != N:
@@ -60,7 +60,7 @@ while c != N:
 
 # Третье Задание:
 
-N = int(input())
+N = int(input()) + 1
 c = 0
 b = -1
 while c != N:
